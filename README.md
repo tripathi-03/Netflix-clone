@@ -1,3 +1,8 @@
-# Netflix-clone
-Simple Netflix Clone
+
+# Netflix Clone
+
+Netflix clone ( Frontend Part)
+
+# Command
+
 npm start
